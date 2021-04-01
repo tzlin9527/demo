@@ -1,1 +1,3 @@
-这是一个测试文件
+public void test(String name){
+    system.out.println("修改函数");
+}
